@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CarouselViewTest": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
